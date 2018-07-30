@@ -1,0 +1,14 @@
+{
+  "name": "nmsjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "bin": {
+    "nmsjs": "./index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1"
+  }
+}
