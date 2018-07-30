@@ -9,5 +9,5 @@ You can pretend to decrypt like hackers by piping any command to nms
 
 # Installation
 ``` bash 
-npm i -g nmsjs
+npm i -g @iryu54/nmsjs
 ``` 
