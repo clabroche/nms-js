@@ -3,12 +3,16 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "author": "",
+  "author": "clabroche",
   "bin": {
     "nmsjs": "./index.js"
   },
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "bluebird": "^3.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clabroche/nms-js.git"
   }
 }
