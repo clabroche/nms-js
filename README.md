@@ -1,4 +1,4 @@
-# nmjs
+# nmsjs
 
 Useless package inspired from https://github.com/bartobri/no-more-secrets
 
